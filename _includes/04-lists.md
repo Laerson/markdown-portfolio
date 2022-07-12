@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+Skills:
+
+* C
+* C++
+* Java
+* Python
+
+To learn:
+* Javascript
+* SQL
